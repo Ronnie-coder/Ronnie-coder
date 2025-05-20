@@ -1,7 +1,8 @@
-# 👋 Hi, I’m @coderon  
-- 🚀 Passionate about front-end development and building sleek, responsive web apps.  
-- 🌱 Currently mastering ReactJS, Tailwind CSS, and Flask for full-stack projects.  
-- 💡 Love solving problems and writing clean, efficient code.  
-- 💼 Open to collaborations on web development projects.  
-- 📫 Reach me at **coderonc@gmail.com**  
-- ⚡ Fun fact: I’m a tech nerd who loves skating and fast cars!  
+🚀 Enthusiastic full-stack developer specializing in crafting sleek, responsive web applications.  
+🌱 Expanding my expertise in ReactJS, Tailwind CSS, and Flask to deliver robust full-stack solutions.  
+💡 Passionate about solving complex problems and writing clean, efficient code.  
+💼 As the founder and CTO of Coderon, I'm always open to collaborative web development projects.  
+📫 Connect with me at coderonc@gmail.com.  
+⚡ Fun fact: I’m a tech enthusiast with a love for skating and speedy cars!  
+
+-
